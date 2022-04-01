@@ -3,7 +3,38 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - c1
+  - c2
+  - c3
+  - c4
+  - p1
+  - p2
+  - p3
+  - p4
+  - s1
+  - s2
+  - s3
+  - co1
+  - co2
+  - co3
+  - co4
+  - a1
+  - a2
+  - a3
+  - f1
+  - f2
+  - f3
+  - f4
+  - m1
+  - m2
+  - m3
+  - m4
+  - char
+  - pet
+  - v1
+  - v2
+  - v3
   layers:
   - Default
   - TransparentFX

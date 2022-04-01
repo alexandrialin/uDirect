@@ -13,7 +13,7 @@ public class LogoLoad : MonoBehaviour
 
     public IEnumerator nextCanvas()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(2);
         gameObject.SetActive(false);
     }
 
