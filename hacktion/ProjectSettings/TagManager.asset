@@ -35,6 +35,18 @@ TagManager:
   - v1
   - v2
   - v3
+  - t1
+  - t2
+  - t3
+  - t4
+  - t5
+  - t6
+  - t7
+  - SkyboxCamera
+  - colour
+  - verb
+  - food
+  - music
   layers:
   - Default
   - TransparentFX
